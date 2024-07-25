@@ -1,0 +1,6 @@
+@EventWhiz_HostAddress = http://localhost:5270
+
+GET {{EventWhiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
